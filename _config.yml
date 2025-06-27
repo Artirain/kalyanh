@@ -1,0 +1,6 @@
+title: "Заголовок сайта"
+url: "https://Artirain.github.io"
+baseurl: "/kalyanh"   # для деплоя
+theme: jekyll-theme-tactile
+plugins:
+  - jekyll-import
